@@ -7,3 +7,5 @@ climate-data/
 mosdac_config.json
 satellite_snapshot.json
 live_snapshot.json
+
+.env
